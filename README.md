@@ -6,7 +6,7 @@
 
 ## 💼 Career
 
-Currently work as **_Web_** developer that work with data manipulation at [Maven Digital Asia](https://maven.co.id/about-us/our-team).
+Currently work as **_Web Developer_** that work with data manipulation at [Maven Digital Asia](https://maven.co.id/about-us/our-team).
 
 ## 💻 Experiences
 
