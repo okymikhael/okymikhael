@@ -2,11 +2,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okymikhael&layout=compact)](https://github.com/okymikhael)
 <br>
 
-👋 Hola... My name is Oky Mikhael, I'm Software Engineer that work in _Full-Stack_, Very passionate about _data science_ and _micro system_ using python for optimizing algorithm also experiment with logical, so we can optimize code and make a beautiful code (maintainable code). 
+👋 Hola... My name is Oky Mikhael, I'm Software Engineer that work in _Web-Developer_, Very passionate about _data science_ and _micro system_ using python for optimizing algorithm also experiment with logical, so we can optimize code and make a beautiful code (maintainable code). 
 
 ## 💼 Career
 
-Currently work as **_Full Stack_** developer that work with data manipulation at [Maven Digital Asia](https://maven.co.id/about-us/our-team).
+Currently work as **_Web_** developer that work with data manipulation at [Maven Digital Asia](https://maven.co.id/about-us/our-team).
 
 ## 💻 Experiences
 
