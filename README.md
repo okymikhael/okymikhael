@@ -2,11 +2,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okymikhael&layout=compact)](https://github.com/okymikhael)
 <br>
 
-👋 Hola... My name is Oky Mikhael, I'm Software Engineer that work in _Web-Developer_, Very passionate about _data science_ and _micro system_ using python for optimizing algorithm also experiment with logical, so we can optimize code and make a beautiful code (maintainable code). 
+👋 Hola... My name is Oky Mikhael, I'm Software Engineer that work as _Developer Consultant_, Very passionate about _data science_ and _micro system_ using python for optimizing algorithm also experiment with logical, so we can optimize code and make a beautiful code (maintainable code). 
 
 ## 💼 Career
 
-Currently work as **_Web Developer_** that work with data manipulation at [Maven Digital Asia](https://maven.co.id/about-us/our-team).
+Currently work as **_Developer Consultant_** that work with data manipulation at [PT JEJARING TIGA ARTHA](https://zicare.id/).
 
 ## 💻 Experiences
 
@@ -25,10 +25,10 @@ Currently work as **_Web Developer_** that work with data manipulation at [Maven
 
 ### 🚀 How to reach me:
 
-- Email: [okymikhael@gmail.com](okymikhael@gmail.com) / [oky@maven.co.id](oky@maven.co.id) 
+- Email: [okymikhael@gmail.com](okymikhael@gmail.com) / [oky@zicare.id](oky@zicare.id) 
 - LinkedIn: [Oky Mikhael](https://www.linkedin.com/in/oky-mikhael/)
 - Instagram: [@kymkhl24](https://www.instagram.com/kymkhl24/)
 
 ---
 
-© 2021 — Oky Mikhael
+© 2022 — Oky Mikhael
