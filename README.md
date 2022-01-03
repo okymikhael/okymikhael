@@ -6,7 +6,7 @@
 
 ## 💼 Career
 
-Currently work as **_Developer Consultant_** that work with data manipulation at [PT JEJARING TIGA ARTHA](https://zicare.id/).
+Currently work as **_Developer Consultant_** that work at [PT JEJARING TIGA ARTHA](https://zicare.id/).
 
 ## 💻 Experiences
 
