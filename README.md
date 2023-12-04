@@ -1,4 +1,3 @@
-[![Oky Mikhael Github Stats](https://github-readme-stats.vercel.app/api?username=okymikhael&count_private=true&theme=default&show_icons=true)](https://github.com/okymikhael)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okymikhael&layout=compact)](https://github.com/okymikhael)
 <br>
 
