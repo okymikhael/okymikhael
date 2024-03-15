@@ -24,10 +24,10 @@ Currently work as **_Developer Consultant_** that work at [PT JEJARING TIGA ARTH
 
 ### 🚀 How to reach me:
 
-- Email: [okymikhael@gmail.com](okymikhael@gmail.com) / [oky@zicare.id](oky@zicare.id) 
+- Email: [okymikhael@gmail.com](okymikhael@gmail.com) / [oky.mikhael@zicare.id](oky.mikhael@zicare.id) 
 - LinkedIn: [Oky Mikhael](https://www.linkedin.com/in/oky-mikhael/)
 - Instagram: [@kymkhl24](https://www.instagram.com/kymkhl24/)
 
 ---
 
-© 2022 — Oky Mikhael
+© 2024 — Oky Mikhael
